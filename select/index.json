@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "またおいで",
+  "base_artist": "South& feat. 可不",
+  "createdAt": "2026-04-03T10:52:36.223848Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またおいで",
+      "artist": "South& feat. 可不",
+      "has_synced": false,
+      "path": "select/pl_01_またおいで_South&_feat._可不.txt"
+    }
+  ]
+}
